@@ -1,0 +1,10 @@
+{
+	"name": "battery-saver",
+	"displayName": "Battery saver",
+	"description": "Customible battery saver that can lower brightness to a specified level, turn off Bluetooth and Wifi, and turn of the backlit keyboard.",
+	"examples": ["battery saver on", "turn batter saver off", "travel mode"],
+	"categories": ["System"],
+    "creator_name": "Alvin Charles",
+    "creator_url": "https://github.com/avncharlie",
+    "openPreferencesOnInstall": true
+}

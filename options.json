@@ -1,0 +1,52 @@
+{
+    "options": [
+        {
+            "type": "hint",
+            "text": "To choose what to disable or enable when battery saver activates or deactivates, enter \"on\" or \"off\" in the first column off both tables."
+        },
+        {
+            "type": "hint",
+            "text": "To edit the brightness setting, choose a value between one and zero."
+        },
+        {
+            "type": "hint",
+            "text": "Available options for both tables are: \"Brightness\", \"Wifi\", \"Bluetooth\" and \"Backlight\"."
+        },
+        {
+            "type": "table",
+            "text": "On activation",
+            "key": "activation",
+            "columns": [
+                {"text": "Enable", "key": "enable"},
+                {"text": "Option", "key": "option"}
+            ]
+        },
+        {
+            "type": "checkmark",
+            "text": "Remember Bluetooth and Wifi settings when activated (so they can be reverted once deactivated)",
+            "key": "remember_settings"
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "table",
+            "text": "On deactivation",
+            "key": "deactivation",
+            "columns": [
+                {"text": "Enable", "key": "enable"},
+                {"text": "Option", "key": "option"}
+            ]
+        },
+        {
+            "type": "hint",
+            "text": "If you checked the textbox to remember Wifi and Bluetooth settings, those fields will be ignored here."
+        },
+        {
+            "type": "buttons",
+            "buttons": [
+                {"text": "See the Github repo", "url": "http://flashlight.nateparrott.com"}
+            ]
+        }
+    ]
+}

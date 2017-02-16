@@ -1,0 +1,9 @@
+battery saver
+~text(turn) battery saver ~dunno(off)
+~text(turn) battery saver
+battery saver ~text(off)
+
+travel mode
+~text(turn) travel mode ~dunno(off)
+~text(turn) travel mode
+travel mode ~dunno(off)

@@ -1,0 +1,39 @@
+{
+  "deactivation" : [
+    {
+      "enable" : ".75",
+      "option" : "Brightness"
+    },
+    {
+      "enable" : "on",
+      "option" : "Wifi"
+    },
+    {
+      "enable" : "on",
+      "option" : "Bluetooth"
+    },
+    {
+      "enable" : "on",
+      "option" : "Backlight"
+    }
+  ],
+  "remember_settings" : 1,
+  "activation" : [
+    {
+      "enable" : ".3",
+      "option" : "Brightness"
+    },
+    {
+      "enable" : "on",
+      "option" : "Wifi"
+    },
+    {
+      "enable" : "off",
+      "option" : "Bluetooth"
+    },
+    {
+      "enable" : "off",
+      "option" : "Backlight"
+    }
+  ]
+}
