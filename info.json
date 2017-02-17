@@ -5,6 +5,6 @@
 	"examples": ["battery saver on", "turn batter saver off", "travel mode"],
 	"categories": ["System"],
     "creator_name": "Alvin Charles",
-    "creator_url": "https://github.com/avncharlie",
+    "creator_url": "https://github.com/avncharlie/flashlight-battery-saver",
     "openPreferencesOnInstall": true
 }
